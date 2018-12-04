@@ -14,8 +14,8 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map](https://github.com/AutoGIS-2018/exercise-5-ellarauth/blob/master/docs/Shopping_centers_accessibility_car_pt_comparisons.png)
- - [My interactive map](https://github.com/AutoGIS-2018/exercise-5-ellarauth/blob/master/docs/population_density.html)
+ - [My static map](https://autogis-2018.github.io/exercise-5-ellarauth/Shopping_centers_accessibility_car_pt_comparisons.png)
+ - [My interactive map](https://autogis-2018.github.io/exercise-5-ellarauth/population_density.html)
  - [Link to test map](https://autogis-2018.github.io/exercise-5-VuokkoH/test_map.html)
  
 ## Descriptions of the maps
