@@ -79,4 +79,17 @@ to continue developing and improving the course.
   - See instructions on **how to edit repo settings and publish contents of the docs folder using github pages** on the course webpages [here](https://automating-gis-processes.github.io/2018/lessons/L5/share-on-github.html#sharing-interactive-plots-on-github).
   - IF you feel like it, please share your published map(s) in our Slack channel! :)
 
+## Points (15.1.2019, VH)
+
+- Problem 1: 8/8
+- Problem 2: 9.75/10
+	- I don't understand the units; What do you mean by population density being 100 %  ?
+	- I believe population density is relative numbers, so it could, for example, be 150 people/ square kilometer.
+	- Thus, values over 100 should be included in the output!
+	- Otherwise, your submission was of very high quality so I reduce only 0.25 points to get your attention on this. 
+	
+- Problem 3: 2/2
+
+
+**Total: 19.75/20**
 
